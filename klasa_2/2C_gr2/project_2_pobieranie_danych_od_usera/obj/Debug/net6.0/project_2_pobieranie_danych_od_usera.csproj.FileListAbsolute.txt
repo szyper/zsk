@@ -1,0 +1,15 @@
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\bin\Debug\net6.0\project_2_pobieranie_danych_od_usera.exe
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\bin\Debug\net6.0\project_2_pobieranie_danych_od_usera.deps.json
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\bin\Debug\net6.0\project_2_pobieranie_danych_od_usera.runtimeconfig.json
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\bin\Debug\net6.0\project_2_pobieranie_danych_od_usera.dll
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\bin\Debug\net6.0\project_2_pobieranie_danych_od_usera.pdb
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\project_2_pobieranie_danych_od_usera.csproj.AssemblyReference.cache
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\project_2_pobieranie_danych_od_usera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\project_2_pobieranie_danych_od_usera.AssemblyInfoInputs.cache
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\project_2_pobieranie_danych_od_usera.AssemblyInfo.cs
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\project_2_pobieranie_danych_od_usera.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\project_2_pobieranie_danych_od_usera.dll
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\refint\project_2_pobieranie_danych_od_usera.dll
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\project_2_pobieranie_danych_od_usera.pdb
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\project_2_pobieranie_danych_od_usera.genruntimeconfig.cache
+C:\Users\ms\Desktop\po\2C_gr2\project_2_pobieranie_danych_od_usera\obj\Debug\net6.0\ref\project_2_pobieranie_danych_od_usera.dll

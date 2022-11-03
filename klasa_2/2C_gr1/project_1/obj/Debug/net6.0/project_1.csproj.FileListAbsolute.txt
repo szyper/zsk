@@ -1,0 +1,15 @@
+C:\Users\ms\Desktop\po\2C_gr1\project_1\bin\Debug\net6.0\project_1.exe
+C:\Users\ms\Desktop\po\2C_gr1\project_1\bin\Debug\net6.0\project_1.deps.json
+C:\Users\ms\Desktop\po\2C_gr1\project_1\bin\Debug\net6.0\project_1.runtimeconfig.json
+C:\Users\ms\Desktop\po\2C_gr1\project_1\bin\Debug\net6.0\project_1.dll
+C:\Users\ms\Desktop\po\2C_gr1\project_1\bin\Debug\net6.0\project_1.pdb
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\project_1.csproj.AssemblyReference.cache
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\project_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\project_1.AssemblyInfoInputs.cache
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\project_1.AssemblyInfo.cs
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\project_1.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\project_1.dll
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\refint\project_1.dll
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\project_1.pdb
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\project_1.genruntimeconfig.cache
+C:\Users\ms\Desktop\po\2C_gr1\project_1\obj\Debug\net6.0\ref\project_1.dll

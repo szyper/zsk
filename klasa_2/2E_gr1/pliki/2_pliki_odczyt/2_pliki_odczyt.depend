@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653461276 source:c:\users\ms\desktop\po\2eg1\pliki\2_pliki_odczyt\main.cpp
+	<iostream>
+	<fstream>
+

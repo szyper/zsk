@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "project_2_pobieranie_danych_od_usera/1.0.0": {
+        "runtime": {
+          "project_2_pobieranie_danych_od_usera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project_2_pobieranie_danych_od_usera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
