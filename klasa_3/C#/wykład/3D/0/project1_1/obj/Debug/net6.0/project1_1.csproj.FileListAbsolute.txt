@@ -1,0 +1,15 @@
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\bin\Debug\net6.0\project1_1.exe
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\bin\Debug\net6.0\project1_1.deps.json
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\bin\Debug\net6.0\project1_1.runtimeconfig.json
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\bin\Debug\net6.0\project1_1.dll
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\bin\Debug\net6.0\project1_1.pdb
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\project1_1.csproj.AssemblyReference.cache
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\project1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\project1_1.AssemblyInfoInputs.cache
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\project1_1.AssemblyInfo.cs
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\project1_1.csproj.CoreCompileInputs.cache
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\project1_1.dll
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\refint\project1_1.dll
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\project1_1.pdb
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\project1_1.genruntimeconfig.cache
+C:\dane\zsk\zajęcia\programowanie_obiektowe\klasa_3\C#\wykład\3D\project1_1\obj\Debug\net6.0\ref\project1_1.dll
